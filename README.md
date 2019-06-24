@@ -1,7 +1,4 @@
-Documentation:
-https://expressjs.com/en/starter/generator.html
-express --view=hbs --css --git testingAPP
-
+## Project2 (just initial testing we can delete once we actually start the project)
 Documentation:
 http://docs.sequelizejs.com/manual/migrations.html#the-sequelizerc-file
 Installing CLI: npm install --save sequelize-cli
